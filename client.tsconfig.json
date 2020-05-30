@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "strict": true,
+        "lib": ["DOM", "ESNext"]
+    },
+    "files": [
+        "src/client.ts"
+    ]
+}
